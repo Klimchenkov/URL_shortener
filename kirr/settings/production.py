@@ -29,7 +29,8 @@ DEBUG = False
 
 ALLOWED_HOSTS = [
     'www.kirr.co',
-    'kirr.co'
+    'kirr.co',
+    'klimkirr.herokuapp.com'
 ]
 
 
